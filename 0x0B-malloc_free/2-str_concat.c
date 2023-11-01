@@ -22,14 +22,14 @@ if (s1 != NULL)
 {
 i = 0;
 while (s1[i++] != '\0')
-        len1++;
+len1++;
 }
 
 if (s2 != NULL)
 {
 i = 0;
 while (s2[i++] != '\0')
-        len2++;
+len2++;
 }
 
 len = len1 + len2;
