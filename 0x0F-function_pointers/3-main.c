@@ -8,7 +8,7 @@ nclude "function_pointers.h"
  *    * @argv: An array of pointers to the arguments.
  *     *
  *      * Return: Always 0.
- *       */
+ */
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
 	int num1, num2;
